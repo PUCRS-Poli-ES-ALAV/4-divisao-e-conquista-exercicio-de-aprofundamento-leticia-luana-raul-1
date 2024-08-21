@@ -1,7 +1,9 @@
+//exercicio3
+
 import static java.lang.Integer.max;
 import java.util.Random;
 
-public class Numero3 {
+public class MaxVal2 {
 
     public static void main(String[] args) throws Exception {
 
